@@ -1,4 +1,0 @@
-RepositoryVirgin
-================
-
-My first repository
